@@ -8,15 +8,15 @@ This project compares the effectiveness of different machine learning models at 
 
 ##### Over- and Undersampling Methods
 
-- The Naive Random Oversampling algorithm produced a balanced accuracy score of 0.65, a precision score of 0.01, and recall score of 0.69.
-- SMOTE Oversampling produced a balanced accuracy score of 0.66, a precision of 0.01, and a recall of 0.63.
-- Undersampling the data with the Cluster Centroids algorithm produced a balanced accuracy score of 0.54, a precision of 0.01, and a recall of 0.69.
-- The SMOTEENN combination over- and undersampling algorithm produced a balanced accuracy score of of 0.66, a precision of 0.01, and a recall of of 0.75.
+- The Naive Random Oversampling algorithm produced a balanced accuracy score of 0.65, a precision score of 0.01, and recall score of 0.69.![](images/oversampling.png)
+- SMOTE Oversampling produced a balanced accuracy score of 0.66, a precision of 0.01, and a recall of 0.63.![](images/smote.png)
+- Undersampling the data with the Cluster Centroids algorithm produced a balanced accuracy score of 0.54, a precision of 0.01, and a recall of 0.69.![](images/undersampling.png)
+- The SMOTEENN combination over- and undersampling algorithm produced a balanced accuracy score of of 0.66, a precision of 0.01, and a recall of of 0.75.![](images/combination.png)
 
 ##### Machine Learning Models
 
-- The Balanced Random Forest Classifier produced a balanced accuracy score of 0.79, a precision of 0.03, and a recall of 0.7.
-- The Easy Ensemble AdaBoost Classifier produced a balanced accuracy score of 0.93, a precision of 0.09, and a recall of 0.92.
+- The Balanced Random Forest Classifier produced a balanced accuracy score of 0.79, a precision of 0.03, and a recall of 0.7.![](images/forest.png)
+- The Easy Ensemble AdaBoost Classifier produced a balanced accuracy score of 0.93, a precision of 0.09, and a recall of 0.92.![](images/easy.png)
 
 ## Summary
 
