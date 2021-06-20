@@ -15,5 +15,12 @@ This project compares the effectiveness of different machine learning models at 
 
 #### Machine Learning Models
 
-- 
+- The Balanced Random Forest Classifier produced a balanced accuracy score of 0.79, a precision of 0.03, and a recall of 0.7.
+- The Easy Ensemble AdaBoost Classifier produced a balanced accuracy score of 0.93, a precision of 0.09, and a recall of 0.92.
+
+## Summary
+
+
+
+
 
